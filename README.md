@@ -1,6 +1,7 @@
 # to-do-list
-Simple to do list built in HTML, CSS and JavaScript
+Simple To Do list built in HTML, CSS and JavaScript
 
+To view the to do list, download the Zip file and open the index.html file in your browser.
 
 
 To add an to do item,
